@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/user/Documents/Account1/account.cpp
+/home/user/Documents/Cpp_demo/account.cpp
 iostream
 -
 pch.h
-/home/user/Documents/Account1/pch.h
+/home/user/Documents/Cpp_demo/pch.h
 
-/home/user/Documents/Account1/account_test.cpp
+/home/user/Documents/Cpp_demo/account_test.cpp
 account.cpp
-/home/user/Documents/Account1/account.cpp
+/home/user/Documents/Cpp_demo/account.cpp
 
-/home/user/Documents/Account1/pch.h
+/home/user/Documents/Cpp_demo/pch.h
 string
 -
 gtest/gtest.h
-/home/user/Documents/Account1/gtest/gtest.h
+/home/user/Documents/Cpp_demo/gtest/gtest.h
 
